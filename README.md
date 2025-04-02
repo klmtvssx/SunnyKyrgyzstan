@@ -1,1 +1,4 @@
-# SunnuKyrgyz
+jibek
+ainazik
+eldar
+samarea
